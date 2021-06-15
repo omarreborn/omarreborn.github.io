@@ -1,0 +1,294 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Cristiano Ronaldo (CR7)",
+      "image":"https://kembardeveloper.github.io/img/cristianoronaldocr7.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.cristianoronaldocr7"
+    },
+    {
+      "id":2,
+      "title":"Khabib Nurmagomedov",
+      "image":"https://kembardeveloper.github.io/img/khabibnurmagomedovufc.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.khabibnurmagomedovufc"
+    },
+    {
+      "id":3,
+      "title":"Shirley Setia",
+      "image":"https://kembardeveloper.github.io/img/shirleysetia.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.shirleysetia"
+    },
+    {
+      "id":4,
+      "title":"Vidya Vox",
+      "image":"https://kembardeveloper.github.io/img/vidyavox.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.vidyavox"
+    },
+    {
+      "id":5,
+      "title":"Jennie Blackpink",
+      "image":"https://kembardeveloper.github.io/img/jennieblackpink.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.jennieblackpink"
+    },
+    {
+      "id":6,
+      "title":"Jisoo Blackpink",
+      "image":"https://kembardeveloper.github.io/img/jisooblackpink.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.jisooblackpink"
+    },
+    {
+      "id":7,
+      "title":"Lisa Blackpink",
+      "image":"https://kembardeveloper.github.io/img/lisablackpink.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.lisablackpink"
+    },
+    {
+      "id":8,
+      "title":"Rose Blackpink",
+      "image":"https://kembardeveloper.github.io/img/roseblackpink.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.roseblackpink"
+    },
+    {
+      "id":9,
+      "title":"J-Hope BTS",
+      "image":"https://kembardeveloper.github.io/img/jhopebts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.jhopebts"
+    },
+    {
+      "id":10,
+      "title":"Jimin BTS",
+      "image":"https://kembardeveloper.github.io/img/jiminbts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.jiminbts"
+    },
+    {
+      "id":11,
+      "title":"Jungkook BTS",
+      "image":"https://kembardeveloper.github.io/img/jungkookbts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.jungkookbts"
+    },
+    {
+      "id":12,
+      "title":"Jin BTS",
+      "image":"https://kembardeveloper.github.io/img/kimseokjinbts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.kimseokjinbts"
+    },
+    {
+      "id":13,
+      "title":"RM BTS",
+      "image":"https://kembardeveloper.github.io/img/kimnamjoonbts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.kimnamjoonbts"
+    },
+    {
+      "id":14,
+      "title":"Suga BTS",
+      "image":"https://kembardeveloper.github.io/img/sugabts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.sugabts"
+    },
+    {
+      "id":15,
+      "title":"V BTS",
+      "image":"https://kembardeveloper.github.io/img/taehyungbts.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.taehyungbts"
+    },
+    {
+      "id":16,
+      "title":"Baekhyun EXO",
+      "image":"https://kembardeveloper.github.io/img/baekhyunexo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.baekhyunexo"
+    },
+    {
+      "id":17,
+      "title":"Chanyeol EXO",
+      "image":"https://kembardeveloper.github.io/img/chanyeolexo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.chanyeolexo"
+    },
+    {
+      "id":18,
+      "title":"D.O. EXO",
+      "image":"https://kembardeveloper.github.io/img/dohkyungsooexo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.dohkyungsooexo"
+    },
+    {
+      "id":19,
+      "title":"Kai EXO",
+      "image":"https://kembardeveloper.github.io/img/kaiexo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.kaiexo"
+    },
+    {
+      "id":20,
+      "title":"Oh Sehun EXO",
+      "image":"https://kembardeveloper.github.io/img/ohsehunexo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.ohsehunexo"
+    },
+    {
+      "id":21,
+      "title":"Suho EXO",
+      "image":"https://kembardeveloper.github.io/img/suhoexo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.suhoexo"
+    },
+    {
+      "id":22,
+      "title":"Zhang Yixing EXO",
+      "image":"https://kembardeveloper.github.io/img/zhangyixingexo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.zhangyixingexo"
+    },
+    {
+      "id":23,
+      "title":"Alwi Assegaf",
+      "image":"https://kembardeveloper.github.io/img/habibalwiassegaf.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.habibalwiassegaf"
+    },
+    {
+      "id":24,
+      "title":"Amanda Manopo",
+      "image":"https://kembardeveloper.github.io/img/amandamanopoandin.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.amandamanopoandin"
+    },
+    {
+      "id":25,
+      "title":"Arya Saloka",
+      "image":"https://kembardeveloper.github.io/img/aryasalokaaldebaran.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.aryasalokaaldebaran"
+    },
+    {
+      "id":26,
+      "title":"Anya Geraldine",
+      "image":"https://kembardeveloper.github.io/img/anya.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.anya"
+    },
+    {
+      "id":27,
+      "title":"Atta Halilintar",
+      "image":"https://kembardeveloper.github.io/img/attahalilintar.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.attahalilintar"
+    },
+    {
+      "id":28,
+      "title":"Aurel Hermansyah",
+      "image":"https://kembardeveloper.github.io/img/aurelhermansyah.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.aurelhermansyah"
+    },
+    {
+      "id":29,
+      "title":"Baim Wong",
+      "image":"https://kembardeveloper.github.io/img/baimwong.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.baimwong"
+    },
+    {
+      "id":30,
+      "title":"Betrand Peto",
+      "image":"https://kembardeveloper.github.io/img/betrandpetoonsu.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.betrandpetoonsu"
+    },
+    {
+      "id":31,
+      "title":"Gisella Anastasia",
+      "image":"https://kembardeveloper.github.io/img/giselidol.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.giselidol"
+    },
+    {
+      "id":32,
+      "title":"Harris Vriza",
+      "image":"https://kembardeveloper.github.io/img/harrisillanovriza.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.harrisillanovriza"
+    },
+    {
+      "id":33,
+      "title":"Ria Ricis",
+      "image":"https://kembardeveloper.github.io/img/riaricisofficial.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.riaricisofficial"
+    },
+    {
+      "id":34,
+      "title":"Lesti Kejora",
+      "image":"https://kembardeveloper.github.io/img/lestikejoraleslar.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.lestikejoraleslar"
+    },
+    {
+      "id":35,
+      "title":"Rizky Billar",
+      "image":"https://kembardeveloper.github.io/img/rizkybillar.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.rizkybillar"
+    },
+    {
+      "id":36,
+      "title":"NAY - Naisa Alifia Yuriza",
+      "image":"https://kembardeveloper.github.io/img/naynaisaalifiayuriza.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.naynaisaalifiayuriza"
+    },
+    {
+      "id":37,
+      "title":"Nissa Sabyan",
+      "image":"https://kembardeveloper.github.io/img/nissasabyangambus.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.nissasabyangambus"
+    },
+    {
+      "id":38,
+      "title":"Rizky Febian",
+      "image":"https://kembardeveloper.github.io/img/rizkyfebianapp.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.rizkyfebianapp"
+    },
+    {
+      "id":39,
+      "title":"Syifa Hadju",
+      "image":"https://kembardeveloper.github.io/img/syifahadju.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.syifahadju"
+    },
+    {
+      "id":40,
+      "title":"Tiara Andini",
+      "image":"https://kembardeveloper.github.io/img/tiaraandiniidol.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.tiaraandiniidol"
+    },
+    {
+      "id":41,
+      "title":"Via Vallen",
+      "image":"https://kembardeveloper.github.io/img/viavallendangdut.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.viavallendangdut"
+    },
+    {
+      "id":42,
+      "title":"Choi Siwon",
+      "image":"https://kembardeveloper.github.io/img/choisiwon.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.choisiwon"
+    },
+    {
+      "id":43,
+      "title":"Kim Seon Ho",
+      "image":"https://kembardeveloper.github.io/img/kimseonhostartup.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.kimseonhostartup"
+    },
+    {
+      "id":44,
+      "title":"Lee Min Ho",
+      "image":"https://kembardeveloper.github.io/img/leeminhodrakor.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.leeminhodrakor"
+    },
+    {
+      "id":45,
+      "title":"Park Seo Joon",
+      "image":"https://kembardeveloper.github.io/img/parkseojoondreamhigh2.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.parkseojoondreamhigh2"
+    },
+    {
+      "id":46,
+      "title":"Song Joong Ki",
+      "image":"https://kembardeveloper.github.io/img/songjoongkidrakor.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.songjoongkidrakor"
+    },
+    {
+      "id":47,
+      "title":"Ten NCT",
+      "image":"https://kembardeveloper.github.io/img/nctten.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.nctten"
+    },
+    {
+      "id":48,
+      "title":"Jaemin NCT",
+      "image":"https://kembardeveloper.github.io/img/nctjaemin.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.kmb.nctjaemin"
+    }
+  ]
+
+}
