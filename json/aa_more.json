@@ -8,16 +8,44 @@
       "link":"https://play.google.com/store/apps/developer?id=Omar+Inc"
     },
     {
-      "id":2,
+      "id":51,
+      "title":"J-Hope BTS",
+      "image":"https://omarappdeveloper.github.io/img/jhopebtsfakecall.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.jhopebtsfakecall"
+    },
+    {
+      "id":52,
+      "title":"Jungkook BTS",
+      "image":"https://omarappdeveloper.github.io/img/jungkookbtsfakecall.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.jungkookbtsfakecall"
+    },
+    {
+      "id":52,
+      "title":"Suga BTS",
+      "image":"https://omarappdeveloper.github.io/img/sugabtsfakecall.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.sugabtsfakecall"
+    },
+
+
+
+
+    {
+      "id":101,
       "title":"Arya Saloka",
       "image":"https://omarappdeveloper.github.io/img/aryasalokafakecall.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.omar.aryasalokafakecall"
     },
     {
-      "id":3,
+      "id":102,
       "title":"Amanda Manopo",
       "image":"https://omarappdeveloper.github.io/img/amandamanopofakecall.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.omar.amandamanopofakecall"
+    },
+    {
+      "id":103,
+      "title":"Frost Diamond",
+      "image":"https://omarappdeveloper.github.io/img/frostdiamondfakecall.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.frostdiamondfakecall"
     }
   ]
 
