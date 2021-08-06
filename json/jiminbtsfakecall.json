@@ -9,12 +9,12 @@
       "select_ads": "ADMOB",
       "select_backup_ads": "FACEBOOK",
 
-      "admob_inter": "YOUR_PLACEMENT_ID",
-      "admob_native": "YOUR_PLACEMENT_ID",
+      "admob_inter": "ca-app-pub-1492481756514569/6946905628",
+      "admob_native": "ca-app-pub-1492481756514569/6324923244",
       
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "876472079970851_876472126637513",
+      "fan_inter": "876472079970851_876472129970846",
+      "fan_native": "876472079970851_876472119970847",
 
       "startappid": "205065498",
       "interval":5
