@@ -1,0 +1,4 @@
+<!--        OPEN BIDDING-->
+        <meta-data
+            android:name="com.google.android.gms.ads.flag.rtb_enabled"
+            android:value="true"/>
