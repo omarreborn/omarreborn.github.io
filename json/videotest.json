@@ -78,12 +78,18 @@
     {
       "name_category": "Khalid Basalamah",
       "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
-    }, {
+    },
+    {
       "name_category": "Hanan Attaki",
       "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
-    }, {
+    },
+    {
       "name_category": "Yufid Tv",
       "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+    },
+    {
+      "name_category": "Action",
+      "image": "https://omarappdeveloper.github.io/img/action.jpg"    
     }
   ],
 
@@ -96,30 +102,41 @@
       "title":"Menabung Bukan Pangkal Kaya",
       "link_video":"https://aliendro.id/uploads/demo/videoonline/menabung.mp4",
       "description":"Sedekah (Bahasa Arab transliterasi: sadakah) adalah pemberian seorang Muslim kepada orang lain secara sukarela dan ikhlas tanpa dibatasi oleh waktu dan jumlah tertentu. Sedekah lebih luas dari sekedar zakat maupun infak. Karena sedekah tidak hanya berarti mengeluarkan atau menyumbangkan harta."
-   },{
+   },
+   {
       "id":2,
       "name_category":"Khalid Basalamah",
       "title":"Istighfar untuk bertobat dan pengampun dosa",
       "link_video":"https://aliendro.id/uploads/demo/videoonline/istighfar.mp4",
       "description":"Istighfar adalah bacaan untuk memohon ampun kepada Allah atas dosa-dosa yang diperbuat sebagai sarana seorang hamba untuk bertobat"
-   },{
+   },
+   {
       "id":3,
       "name_category":"Hanan Attaki",
       "title":"Yakin dengan pertolongan Allah",
       "link_video":"https://ia601500.us.archive.org/7/items/yakin_202106/yakin.mp4",
       "description":"Jika sudah teguh menerapkan aturan dan mengendalikan hawa nafsu, manusia harus yakin pertolongan Allah SWT pasti diberikan."
-   },{
+   },
+   {
       "id":4,
       "name_category":"Yufid Tv",
       "title":"Ternyata Dosa, Bukan Pahala",
       "link_video":"https://ia601404.us.archive.org/13/items/dosa_20210614/dosa.mp4",
       "description":"Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
-   },{
+   },
+   {
       "id":5,
       "name_category":"Yufid Tv",
       "title":"Faedah Mengingat Kematian",
       "link_video":"https://aliendro.id/uploads/demo/videoonline/kematian.mp4",
       "description":"Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
+   },
+   {
+      "id":6,
+      "name_category":"Action",
+      "title":"The Suicide Squad (2021)",
+      "link_video":"https://www2023.ff-05.com/token=qcNWo3iva83HYI3vInWmyA/1628317346/36.76.0.0/30/c/e7/965da68305d3da3af5ed8d93951a8e7c-720p.mp4",
+      "description":"Synopsis : Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese."
    }
   ]
 }
