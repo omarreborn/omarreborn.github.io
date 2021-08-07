@@ -8,9 +8,9 @@
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
 
-      "admob_inter": "",
-      "admob_native": "",
-      "admob_open_ads":"",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
 
       "startappid": "",
 
@@ -77,19 +77,19 @@
   [
     {
       "name_category": "Khalid Basalamah",
-      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"
     },
     {
       "name_category": "Hanan Attaki",
-      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"
     },
     {
       "name_category": "Yufid Tv",
-      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"
     },
     {
       "name_category": "Action",
-      "image": "https://omarappdeveloper.github.io/img/action.jpg"    
+      "image": "https://omarappdeveloper.github.io/img/action.jpg"
     }
   ],
 
@@ -135,6 +135,7 @@
       "id":6,
       "name_category":"Action",
       "title":"The Suicide Squad (2021)",
+      "image": "https://omarappdeveloper.github.io/img/action.jpg",
       "link_video":"https://www2023.ff-05.com/token=qcNWo3iva83HYI3vInWmyA/1628317346/36.76.0.0/30/c/e7/965da68305d3da3af5ed8d93951a8e7c-720p.mp4",
       "description":"Synopsis : Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese."
    }
