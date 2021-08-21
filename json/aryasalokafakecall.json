@@ -6,7 +6,7 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=",
 
       "backup_mode" : "1",
-      "select_ads": "FACEBOOK",
+      "select_ads": "ADMOB",
       "select_backup_ads": "APPLOVIN",
       
       "admob_inter": "ca-app-pub-1492481756514569/5509653145",
