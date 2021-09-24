@@ -4,17 +4,17 @@
       "status_app": "0",
       "link_redirect": "https://",
 
-      "more_app":"0",
+      "more_app":"1",
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"FAN",
+      "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_banner": "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial":"YOUR_PLACEMENT_ID",
-      "native_for_admob":"YOUR_PLACEMENT_ID",
+      "main_ads_banner": "ca-app-pub-3297829551606904/3303993290",
+      "main_ads_intertitial":"ca-app-pub-3297829551606904/4605466670",
+      "native_for_admob":"ca-app-pub-3297829551606904/9677829954",
 
-      "fan_ads_banner": "YOUR_PLACEMENT_ID",
-      "fan_ads_intertitial":"YOUR_PLACEMENT_ID",
-      "fan_ads_native":"YOUR_PLACEMENT_ID",
+      "fan_ads_banner": "1751009821740288_1927523457422256",
+      "fan_ads_intertitial":"1751009821740288_1751012015073402",
+      "fan_ads_native":"1751009821740288_1927523457422256",
 
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"qwerty1234",
@@ -23,11 +23,11 @@
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
 
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": ""
+      "high_paying_keyword_1": "asuransi jiwa",
+      "high_paying_keyword_2": "asuransi pendidikan",
+      "high_paying_keyword_3": "asuransi kesehatan",
+      "high_paying_keyword_4": "asuransi prudential",
+      "high_paying_keyword_5": "mobil asuransi"
       }
    ]
 
