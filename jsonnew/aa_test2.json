@@ -1,0 +1,110 @@
+{ 
+    
+"Ads": 
+  [
+    {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "applovin_banner":"",
+      "applovin_inter":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "interval":5
+    }
+  ],
+
+    
+"More":
+  [
+    {
+      "title":"Alien Fake Video & Voice Call",
+      "image":"https://aliendro.id/uploads/images/202010/img_x500_5f75582ec5bde9-60192231-90169951.jpg",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },{
+      "title":"Alien Skin Minecraft (MOD)",
+      "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748b8941e1d9-76852947-35724018.jpg",
+      "link":"https://aliendro.id/alien-skin-craft-v11-3"
+    },{
+      "title":"Alien Guide Online Offline",
+      "image":"https://aliendro.id/uploads/images/202009/img_x500_5f74855ee39148-62442722-70134250.jpg",
+      "link":"https://aliendro.id/alien-guide-online-offline-1"
+    },{
+      "title":"Alien Wallapper Json Online & Offline",
+      "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748768ab9724-22614153-29713412.jpg",
+      "link":"https://aliendro.id/alien-wallapper-json-2"
+    },{
+      "title":"Alien Mp3 Player Online-Offline",
+      "image":"https://aliendro.id/uploads/images/202101/img_x500_60125c1e6ddcb1-49884358-38627561.jpg",
+      "link":"https://aliendro.id/alien-mp3-player-v22-10"
+    }
+  ],
+
+
+"Categories": 
+  [
+    {
+      "name_category": "Khalid Basalamah",
+      "image": "https://aliendro.id/uploads/demo/videoonline/khb.png"    
+    }, {
+      "name_category": "Hanan Attaki",
+      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg"    
+    }, {
+      "name_category": "Yufid Tv",
+      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png"    
+    }
+  ],
+
+
+"Video":
+  [
+        {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "title": "Menabung Bukan Pangkal Kaya",
+      "image": "file:///android_asset/khb.jpeg",
+      "link_video": "https://aliendro.id/uploads/demo/videoonline/menabung.mp4",
+      "description": "Sedekah (Bahasa Arab transliterasi: sadakah) adalah pemberian seorang Muslim kepada orang lain secara sukarela dan ikhlas tanpa dibatasi oleh waktu dan jumlah tertentu. Sedekah lebih luas dari sekedar zakat maupun infak. Karena sedekah tidak hanya berarti mengeluarkan atau menyumbangkan harta."
+    },
+    {
+      "id": 2,
+      "name_category": "Khalid Basalamah",
+      "title": "Istighfar untuk bertobat dan pengampun dosa",
+      "image": "file:///android_asset/khb.jpeg",
+      "link_video": "https://aliendro.id/uploads/demo/videoonline/istighfar.mp4",
+      "description": "Istighfar adalah bacaan untuk memohon ampun kepada Allah atas dosa-dosa yang diperbuat sebagai sarana seorang hamba untuk bertobat"
+    },
+    {
+      "id": 3,
+      "name_category": "Hanan Attaki",
+      "title": "Yakin dengan pertolongan Allah",
+      "image": "https://aliendro.id/uploads/demo/videoonline/shift.jpeg",
+      "link_video": "https://ia601500.us.archive.org/7/items/yakin_202106/yakin.mp4",
+      "description": "Jika sudah teguh menerapkan aturan dan mengendalikan hawa nafsu, manusia harus yakin pertolongan Allah SWT pasti diberikan."
+    },
+    {
+      "id": 4,
+      "name_category": "Yufid Tv",
+      "title": "Ternyata Dosa, Bukan Pahala",
+      "image": "https://aliendro.id/uploads/demo/videoonline/yufid.png",
+      "link_video": "https://ia601404.us.archive.org/13/items/dosa_20210614/dosa.mp4",
+      "description": "Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
+    },
+    {
+      "id": 5,
+      "name_category": "Yufid Tv",
+      "title": "Faedah Mengingat Kematian",
+      "image": "null",
+      "link_video": "https://aliendro.id/uploads/demo/videoonline/kematian.mp4",
+      "description": "Didalam agama islam dosa merupakan perbuatan yang dilakukan seorang mukallaf yang melanggar hukum Allah SWT"
+    }
+  ]
+}
