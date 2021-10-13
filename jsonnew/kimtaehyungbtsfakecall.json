@@ -10,8 +10,7 @@
 
       "main_ads_banner": "YOUR_PLACEMENT_ID",
       "main_ads_intertitial":"YOUR_PLACEMENT_ID",
-      "admob_native":"YOUR_PLACEMENT_ID",
-      "google_ads_native" : "YOUR_PLACEMENT_ID",
+      "native_for_admob":"YOUR_PLACEMENT_ID",
 
       "fan_ads_banner": "614023536244174_646725516307309",
       "fan_ads_intertitial":"614023536244174_614023576244170",
