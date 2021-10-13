@@ -2,7 +2,7 @@
    "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"FACEBOOK",
 
       "more_app":"1",
       "main_ads_banner": "",
@@ -13,8 +13,8 @@
       "fan_ads_intertitial":"1751009821740288_1751012015073402",
       "fan_ads_native":"1751009821740288_1927523457422256",
 
-      "backup_ads_banner":"qwerty1234",
-      "backup_ads_intertitial":"qwerty1234",
+      "backup_ads_banner": "1751009821740288_1927523457422256",
+      "backup_ads_intertitial":"1751009821740288_1751012015073402",
 
       "interval_intertitial": 5,
       "initialize_sdk":"",
