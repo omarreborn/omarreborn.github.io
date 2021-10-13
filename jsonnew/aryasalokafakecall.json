@@ -1,16 +1,13 @@
 {
-  "Ads": [
-      {
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/developer?id=KEMBAR+DEVELOPER",
-
-      "more_app":"1",
+   "Ads": [
+    {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_banner": "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial":"ca-app-pub-7084424032551735/3293083106",
-      "admob_native":"ca-app-pub-7084424032551735/5789068711",
+      "more_app":"1",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-7084424032551735/9060484919",
+      "admob_native" : "ca-app-pub-7084424032551735/7747403246",
       "google_ads_native" : "YOUR_PLACEMENT_ID",
 
       "fan_ads_banner": "1751009821740288_1927523457422256",
@@ -29,7 +26,9 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      }
-   ]
-
+      
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/developer?id=Omar+Inc"
+    }
+  ]
 }
