@@ -18,11 +18,11 @@
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
 
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "life insurance",
+      "high_paying_keyword_2": "health insurance",
+      "high_paying_keyword_3": "education insurance",
+      "high_paying_keyword_4": "architect",
+      "high_paying_keyword_5": "property",
       
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/developer?id=Omar+Inc"
