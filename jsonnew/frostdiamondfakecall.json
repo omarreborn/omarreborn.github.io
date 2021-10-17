@@ -5,7 +5,7 @@
       "link_redirect": "https://",
 
       "more_app":"1",
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads":"FACEBOOK",
 
       "main_ads_banner": "YOUR_PLACEMENT_ID",
@@ -19,8 +19,8 @@
       "backup_ads_intertitial":"qwerty1234",
 
       "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"1189de0ed",
+      "initialize_sdk_backup_ads":"1189de0ed",
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
