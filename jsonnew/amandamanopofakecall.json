@@ -1,7 +1,7 @@
 {
    "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads":"FACEBOOK",
 
       "more_app":"1",
@@ -16,8 +16,8 @@
       "backup_ads_intertitial":"qwerty1234",
 
       "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"118b9becd",
+      "initialize_sdk_backup_ads":"118b9becd",
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
