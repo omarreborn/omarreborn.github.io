@@ -1,22 +1,25 @@
 {
   "Ads": [
-      {
+    {
       "status_app": "0",
       "link_redirect": "https://",
 
       "more_app":"1",
-      "select_main_ads": "IRON",
-      "select_backup_ads":"FACEBOOK",
+      "select_main_ads"       : "IRON",
+      "select_backup_ads"     :"FACEBOOK",
 
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"ca-app-pub-7084424032551735/3262428989",
-      "native_for_admob":"ca-app-pub-7084424032551735/7884200272",
+      "main_ads_banner"       : "DefaultBanner",
+      "main_ads_intertitial"  :"ca-app-pub-7084424032551735/3262428989",
+      "native_for_admob"      :"ca-app-pub-7084424032551735/7884200272",
 
-      "fan_ads_banner": "542873523575232_578919499970634",
-      "fan_ads_intertitial":"542873523575232_542873560241895",
+      "fan_ads_banner"        : "542873523575232_578919499970634",
+      "fan_ads_intertitial"   : "542873523575232_542873560241895",
 
-      "backup_ads_banner":"qwerty1234",
-      "backup_ads_intertitial":"qwerty1234",
+      "backup_ads_banner"        : "542873523575232_578919499970634",
+      "backup_ads_intertitial"   : "542873523575232_542873560241895",
+
+      "backup_ads_bannerx"     :"qwerty1234",
+      "backup_ads_intertitialx":"qwerty1234",
 
       "interval_intertitial": 5,
       "initialize_sdk":"118ed3575",
@@ -27,7 +30,7 @@
       "high_paying_keyword_3": "education insurance",
       "high_paying_keyword_4": "architect",
       "high_paying_keyword_5": "property"
-      }
-   ]
+    }
+  ]
 
 }

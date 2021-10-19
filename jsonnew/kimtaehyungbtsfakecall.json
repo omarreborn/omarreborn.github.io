@@ -5,18 +5,21 @@
       "link_redirect": "https://",
 
       "more_app":"1",
-      "select_main_ads": "IRON",
-      "select_backup_ads":"FACEBOOK",
+      "select_main_ads"         : "IRON",
+      "select_backup_ads"       : "FACEBOOK",
 
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"ca-app-pub-7084424032551735/8461433700",
-      "native_for_admob":"ca-app-pub-7084424032551735/8150620122",
+      "main_ads_banner"         : "DefaultBanner",
+      "main_ads_intertitial"    : "ca-app-pub-7084424032551735/8461433700",
+      "native_for_admob"        : "ca-app-pub-7084424032551735/8150620122",
 
-      "fan_ads_banner": "614023536244174_646725516307309",
-      "fan_ads_intertitial":"614023536244174_614023576244170",
+      "fan_ads_banner"          : "614023536244174_646725516307309",
+      "fan_ads_intertitial"     : "614023536244174_614023576244170",
 
-      "backup_ads_banner":"qwerty1234",
-      "backup_ads_intertitial":"qwerty1234",
+      "backup_ads_banner"       : "614023536244174_646725516307309",
+      "backup_ads_intertitial"  : "614023536244174_614023576244170",
+
+      "backup_ads_bannerx"       : "qwerty1234",
+      "backup_ads_intertitialx"  : "qwerty1234",
 
       "interval_intertitial": 5,
       "initialize_sdk":"118ee1b95",

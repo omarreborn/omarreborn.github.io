@@ -9,11 +9,14 @@
       "main_ads_intertitial"  : "ca-app-pub-7084424032551735/9776415184",
       "native_for_admob"      : "ca-app-pub-7084424032551735/9972868060",
 
-      "fan_ads_banner"      : "869728787220837_1006811036845944",
-      "fan_ads_intertitial" : "869728787220837_869728843887498",
+      "fan_ads_banner"        : "869728787220837_1006811036845944",
+      "fan_ads_intertitial"   : "869728787220837_869728843887498",
 
-      "backup_ads_banner":"qwerty1234",
-      "backup_ads_intertitial":"qwerty1234",
+      "backup_ads_banner"      : "869728787220837_1006811036845944",
+      "backup_ads_intertitial" : "869728787220837_869728843887498",
+
+      "backup_ads_bannerx":"qwerty1234",
+      "backup_ads_intertitialx":"qwerty1234",
 
       "interval_intertitial": 5,
       "initialize_sdk":"118b9becd",
