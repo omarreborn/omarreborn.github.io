@@ -6,7 +6,7 @@
 
       "more_app":"1",
       "select_main_ads"         : "IRON",
-      "select_backup_ads"       : "FACEBOOK",
+      "select_backup_ads"       : "APPLOVIN-D",
 
       "main_ads_banner"         : "DefaultBanner",
       "main_ads_intertitial"    : "ca-app-pub-7084424032551735/1905416609",
@@ -15,15 +15,13 @@
       "fan_ads_banner"          : "260994232162217_290864909175149",
       "fan_ads_intertitial"     : "260994232162217_260994275495546",
 
-      "backup_ads_banner"          : "260994232162217_290864909175149",
-      "backup_ads_intertitial"     : "260994232162217_260994275495546",
-
-      "backup_ads_bannerx"       :"qwerty1234",
-      "backup_ads_intertitialx"  :"qwerty1234",
-
-      "interval_intertitial": 5,
+      "backup_ads_banner"       :"qwerty1234",
+      "backup_ads_intertitial"  :"qwerty1234",
+      
       "initialize_sdk"             : "118eec82d",
       "initialize_sdk_backup_ads"  : "118eec82d",
+
+      "interval_intertitial": 5,
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
