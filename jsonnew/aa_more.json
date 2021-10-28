@@ -145,8 +145,26 @@
       "link":"https://play.google.com/store/apps/details?id=com.omar.wallbtsjimin"
     },
 
+    {
+      "id":77,
+      "title":"Cha Eun-woo",
+      "image":"https://omarappdeveloper.github.io/img/wallchaeunwoo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.wallchaeunwoo"
+    },
 
 
+    {
+      "id":78,
+      "title":"Betrand Peto",
+      "image":"https://omarappdeveloper.github.io/img/wallbetrandpeto.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.wallbetrandpeto"
+    },
+    {
+      "id":79,
+      "title":"NAY",
+      "image":"https://omarappdeveloper.github.io/img/wallnaisaalifiayuriza.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.wallnaisaalifiayuriza"
+    },
     {
       "id":81,
       "title":"Kayess",
@@ -191,7 +209,7 @@
     },
     {
       "id":88,
-      "title":"Amanda Manopo",
+      "title":"AmandaManopo",
       "image":"https://omarappdeveloper.github.io/img/wallamandamanopo.webp",
       "link":"https://play.google.com/store/apps/details?id=com.omar.wallamandamanopo"
     },
@@ -200,6 +218,18 @@
       "title":"Arya Saloka",
       "image":"https://omarappdeveloper.github.io/img/wallaryasaloka.webp",
       "link":"https://play.google.com/store/apps/details?id=com.omar.wallaryasaloka"
+    },
+    {
+      "id":90,
+      "title":"Sandrinna Michelle",
+      "image":"https://omarappdeveloper.github.io/img/wallsandrinnamichelle.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.wallsandrinnamichelle"
+    },
+    {
+      "id":91,
+      "title":"Rey Bong",
+      "image":"https://omarappdeveloper.github.io/img/wallreybong.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.omar.wallreybong"
     }
   ]
 
