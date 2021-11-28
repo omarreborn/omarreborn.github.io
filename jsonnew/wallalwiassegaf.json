@@ -1,7 +1,7 @@
 {
    "Ads": [
     {
-      "select_main_ads"           : "ADMOB",
+      "select_main_ads"           : "IRON",
       "select_backup_ads"         : "APPLOVIN-D",
 
       "more_app"                  : "1",
@@ -17,8 +17,8 @@
       "backup_ads_banner"         : "qwerty1234",
       "backup_ads_intertitial"    : "qwerty1234",
 
-      "initialize_sdk"            : "",
-      "initialize_sdk_backup_ads" : "",
+      "initialize_sdk"            : "123829235",
+      "initialize_sdk_backup_ads" : "123829235",
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
