@@ -5,16 +5,15 @@
       "link_redirect": "https://",
 
       "more_app":"1",
-      "select_main_ads"         : "IRON",
+      "select_main_ads"         : "ADMOB",
       "select_backup_ads"       : "APPLOVIN-D",
 
       "main_ads_banner"         : "DefaultBanner",
       "main_ads_intertitial"    : "ca-app-pub-7084424032551735/4276143665",
       "native_for_admob"        : "ca-app-pub-7084424032551735/2774509674",
 
-      "fan_ads_banner"          : "876472079970851_908449330106459",
-      "fan_ads_intertitial"     : "876472079970851_876472129970846",
-      "keterangan"              : "DITOLAK_FACEBOOK",
+      "fan_ads_banner"          : "DITOLAK_FACEBOOK",
+      "fan_ads_intertitial"     : "DITOLAK_FACEBOOK",
 
       "backup_ads_banner"       : "qwerty1234",
       "backup_ads_intertitial"  : "qwerty1234",
