@@ -1,7 +1,7 @@
 {
    "Ads": [
     {
-      "select_main_ads"             : "IRON",
+      "select_main_ads"             : "FACEBOOK",
       "select_backup_ads"           : "APPLOVIN-D",
 
       "more_app"                    : "1",
@@ -11,11 +11,11 @@
 
       "google_ads_native"           : "YOUR_PLACEMENT_ID",
 
-      "fan_ads_banner"              : "YOUR_PLACEMENT_ID",
-      "fan_ads_intertitial"         : "YOUR_PLACEMENT_ID",
+      "fan_ads_banner"              : "2081586081991948_2081586158658607",
+      "fan_ads_intertitial"         : "2081586081991948_2081586165325273",
 
       "backup_ads_banner"           : "qwerty1234",
-      "backup_ads_intertitial"      :"qwerty1234",
+      "backup_ads_intertitial"      : "qwerty1234",
 
       "interval_intertitial": 5,
       "initialize_sdk"              : "11b2a0c9d",

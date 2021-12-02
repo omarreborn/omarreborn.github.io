@@ -1,7 +1,7 @@
 {
    "Ads": [
     {
-      "select_main_ads"             : "IRON",
+      "select_main_ads"             : "FACEBOOK",
       "select_backup_ads"           : "APPLOVIN-D",
 
       "more_app"                    : "1",
@@ -11,8 +11,8 @@
 
       "google_ads_native"           : "YOUR_PLACEMENT_ID",
 
-      "fan_ads_banner"              : "YOUR_PLACEMENT_ID",
-      "fan_ads_intertitial"         : "YOUR_PLACEMENT_ID",
+      "fan_ads_banner"              : "647097723131426_647097819798083",
+      "fan_ads_intertitial"         : "647097723131426_647097823131416",
 
       "backup_ads_banner"           : "qwerty1234",
       "backup_ads_intertitial"      : "qwerty1234",
