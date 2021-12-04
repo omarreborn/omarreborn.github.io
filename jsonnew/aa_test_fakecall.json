@@ -14,6 +14,7 @@
 
       "backup_ads_banner"         : "qwerty1234",
       "backup_ads_intertitial"    : "qwerty1234",
+
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
 
@@ -23,7 +24,7 @@
       "high_paying_keyword_2": "health insurance",
       "high_paying_keyword_3": "education insurance",
       "high_paying_keyword_4": "architect",
-      "high_paying_keyword_5": "property",
+      "high_paying_keyword_5": "car insurance",
 
       "status_app": "0",
       "link_redirect": "https://"
