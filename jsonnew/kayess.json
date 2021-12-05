@@ -17,7 +17,7 @@
       "backup_ads_banner"         : "qwerty1234",
       "backup_ads_intertitial"    : "qwerty1234",
 
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk"            : "11a998c05",
       "initialize_sdk_backup_ads" : "11a998c05",
 
