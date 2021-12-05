@@ -1,8 +1,8 @@
 {
    "Ads": [
     {
-      "select_main_ads"         : "FACEBOOK",
-      "select_backup_ads"       : "IRON",
+      "select_main_ads"         : "ADMOB",
+      "select_backup_ads"       : "APPLOVIN-D",
 
       "more_app"                : "1",
       "main_ads_banner"         : "DefaultBanner",
@@ -17,7 +17,7 @@
       "backup_ads_banner"       : "qwerty1234",
       "backup_ads_intertitial"  : "qwerty1234",
 
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk"           : "11a986c5d",
       "initialize_sdk_backup_ads": "11a986c5d",
 
