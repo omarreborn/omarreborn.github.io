@@ -6,7 +6,7 @@
 
       "more_app":"1",
       "select_main_ads"         : "ADMOB",
-      "select_backup_ads"       : "APPLOVIN-D",
+      "select_backup_ads"       : "APPLOVIN-D-NB",
 
       "main_ads_banner"         : "DefaultBanner",
       "main_ads_intertitial"    : "ca-app-pub-7084424032551735/9329143881",
@@ -27,7 +27,7 @@
       "high_paying_keyword_2": "health insurance",
       "high_paying_keyword_3": "education insurance",
       "high_paying_keyword_4": "architect",
-      "high_paying_keyword_5": "property"
+      "high_paying_keyword_5": "car insurance"
       }
    ]
 
