@@ -6,7 +6,7 @@
 
       "more_app"              : "1",
       "select_main_ads"       : "ADMOB",
-      "select_backup_ads"     : "APPLOVIN-D-NB",
+      "select_backup_ads"     : "APPLOVIN-M",
 
       "main_ads_banner"       : "DefaultBanner",
       "main_ads_intertitial"  : "ca-app-pub-7084424032551735/2992526746",
@@ -15,8 +15,8 @@
       "fan_ads_banner"        : "458103708614475_539585820466263",
       "fan_ads_intertitial"   : "458103708614475_458103735281139",
 
-      "backup_ads_banner"       : "qwerty1234",
-      "backup_ads_intertitial"  : "qwerty1234",
+      "backup_ads_banner"       : "f0521524004ff322",
+      "backup_ads_intertitial"  : "f0c73102881ae4a0",
 
       "interval_intertitial": 3,
       "initialize_sdk"            : "118eba2bd",

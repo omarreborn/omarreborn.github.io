@@ -2,7 +2,7 @@
    "Ads": [
     {
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-D",
+      "select_backup_ads"         : "APPLOVIN-M",
 
       "more_app"                  : "1",
       "main_ads_banner"           : "DefaultBanner",
@@ -14,8 +14,8 @@
       "fan_ads_banner"            : "DITOLAK_FACEBOOK",
       "fan_ads_intertitial"       : "DITOLAK_FACEBOOK",
 
-      "backup_ads_banner"         : "qwerty1234",
-      "backup_ads_intertitial"    : "qwerty1234",
+      "backup_ads_banner"         : "70d86abf5528a689",
+      "backup_ads_intertitial"    : "72f6607670a5d000",
 
       "initialize_sdk"            : "123829235",
       "initialize_sdk_backup_ads" : "123829235",
