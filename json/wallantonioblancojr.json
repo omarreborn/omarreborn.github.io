@@ -1,0 +1,29 @@
+{
+   "Ads": [
+    {
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "IRON",
+
+      "more_app"                  : "1",
+      "main_ads_intertitial"      : "ca-app-pub-7084424032551735/8121460269",
+      "main_ads_native"           : "ca-app-pub-7084424032551735/5420927695",
+
+      "backup_ads_native"         : "6c9156fea7c79a64",
+      "backup_ads_intertitial"    : "c7cc4e972addff52",
+
+      "initialize_sdk"            : "123845e75",
+      "initialize_sdk_backup_ads" : "123845e75",
+
+      "high_paying_keyword_1": "life insurance",
+      "high_paying_keyword_2": "health insurance",
+      "high_paying_keyword_3": "education insurance",
+      "high_paying_keyword_4": "architect",
+      "high_paying_keyword_5": "property",
+
+      "interval_intertitial": 3,
+      
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/developer?id=Fake+Call+App"
+    }
+  ]
+}
