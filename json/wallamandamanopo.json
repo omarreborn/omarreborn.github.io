@@ -5,10 +5,10 @@
       "select_backup_ads"         : "APPLOVIN-M",
 
       "more_app"                  : "1",
-      "main_ads_intertitial"      : "ca-app-pub-7084424032551735/7536123012",
-      "main_ads_native"           : "ca-app-pub-7084424032551735/6669763906",
+      "main_ads_intertitial"      : "ca-app-pub-7084424032551735/7536123012x",
+      "main_ads_native"           : "ca-app-pub-7084424032551735/6669763906x",
 
-      "backup_ads_native"         : "c25131819accacc9",
+      "backup_ads_native"         : "4cfe156d0b34cc69",
       "backup_ads_intertitial"    : "95b9cf1fcb9aecfa",
 
       "initialize_sdk"            : "11bfe6ba5",
