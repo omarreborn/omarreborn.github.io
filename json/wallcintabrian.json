@@ -11,7 +11,7 @@
       "native_admob"              : "ca-app-pub-3940256099942544/2247696110x",
       "native_applovin"           : "9eab2526ed23fe3f",
 
-      "backup_ads_banner"         : "07054191181a90cc",
+      "backup_ads_banner"         : "",
       "backup_ads_intertitial"    : "7f4161e9f4498f10",
 
       "initialize_sdk"            : "11bfe6ba5",
