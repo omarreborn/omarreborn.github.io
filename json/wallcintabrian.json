@@ -5,17 +5,14 @@
       "select_backup_ads"         : "APPLOVIN-M",
 
       "more_app"                  : "1",
-      "main_ads_banner"           : "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial"      : "ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_intertitial"      : "ca-app-pub-7084424032551735/6146309282",
+      "main_ads_native"           : "ca-app-pub-7084424032551735/7267819266",
 
-      "native_admob"              : "ca-app-pub-3940256099942544/2247696110x",
-      "native_applovin"           : "9eab2526ed23fe3f",
+      "backup_ads_banner"         : "f391dc5d960043ca",
+      "backup_ads_intertitial"    : "abaa631031c1fe89",
 
-      "backup_ads_banner"         : "",
-      "backup_ads_intertitial"    : "7f4161e9f4498f10",
-
-      "initialize_sdk"            : "11bfe6ba5",
-      "initialize_sdk_backup_ads" : "11bfe6ba5",
+      "initialize_sdk"            : "1249b0935",
+      "initialize_sdk_backup_ads" : "1249b0935",
 
       "high_paying_keyword_1": "life insurance",
       "high_paying_keyword_2": "health insurance",
