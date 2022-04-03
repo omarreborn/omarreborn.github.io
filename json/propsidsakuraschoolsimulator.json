@@ -1,0 +1,37 @@
+{
+   "Ads": [
+    {
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-M",
+
+      "more_app"                  : "1",
+      "main_ads_intertitial"      : "ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
+
+      "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
+      "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
+
+      "initialize_sdk"            : "YOUR_PLACEMENT_ID",
+      "initialize_sdk_backup_ads" : "YOUR_PLACEMENT_ID",
+
+
+      "native_for_admob"          : "ca-app-pub-3940256099942544/2247696110",
+      "interval_native_ads"       : 3,
+      "start_position_native_ads" : 2,
+      "native_ads_color"          : "#05eccc68",
+      "stroke_line_native_ads"    : "1",
+      "size_native"               : "2",
+
+      "high_paying_keyword_1": "life insurance",
+      "high_paying_keyword_2": "health insurance",
+      "high_paying_keyword_3": "education insurance",
+      "high_paying_keyword_4": "architect",
+      "high_paying_keyword_5": "property",
+
+      "interval_intertitial": 4,
+      
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/developer?id=Fake+Call+App"
+    }
+  ]
+}
