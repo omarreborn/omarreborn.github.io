@@ -8,8 +8,8 @@
       "main_ads_intertitial"      : "ca-app-pub-7084424032551735/8549587015",
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
 
-      "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
-      "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
+      "backup_ads_banner"         : "de22b1fe1b6b2c40",
+      "backup_ads_intertitial"    : "b2da00300f1d6b4d",
 
       "initialize_sdk"            : "YOUR_PLACEMENT_ID",
       "initialize_sdk_backup_ads" : "YOUR_PLACEMENT_ID",
