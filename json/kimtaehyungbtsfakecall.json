@@ -1,23 +1,33 @@
 {
-   "Ads":
-   [
-      {
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=",
+  "Ads": [
+    {
+      "more_app"                  : "1",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-M",
 
-      "backup_mode" : "1",
-      "select_ads": "FACEBOOK",
-      "select_backup_ads": "APPLOVIN",
+      "main_ads_intertitial"      : "ca-app-pub-7084424032551735/8461433700",
+      "main_ads_native"           : "ca-app-pub-7084424032551735/8150620122",
 
-      "admob_inter": "ca-app-pub-1492481756514569/3638038393",
-      "admob_native": "ca-app-pub-1492481756514569/2324956720",
+      "backup_ads_intertitial"    : "cbdbe84bd9ad43e4",
+      "backup_ads_native"         : "45a601c6309c8c71",
       
-      "fan_banner_native": "614023536244174_614023582910836",
-      "fan_inter": "614023536244174_614023576244170",
-      "fan_native": "614023536244174_614023569577504",
+      "initialize_sdk"            : "",
+      "initialize_sdk_backup_ads" : "",
 
-      "startappid": "205065498",
-      "interval":5
+      "interval_intertitial"      : 5,
+
+      "high_paying_keyword_1"     : "life insurance",
+      "high_paying_keyword_2"     : "health insurance",
+      "high_paying_keyword_3"     : "education insurance",
+      "high_paying_keyword_4"     : "architect",
+      "high_paying_keyword_5"     : "car insurance",
+
+      "warna_native"              : "#05eccc68",
+      "line_atau_polos"           : "0",
+      "size_native"               : "2",
+
+      "status_app": "0",
+      "link_redirect": "https://"
       }
-   ]
+  ]
 }

@@ -20,7 +20,7 @@
       "high_paying_keyword_4"           : "architect",
       "high_paying_keyword_5"           : "car insurance",
 
-      "interval_intertitial"            : 0,
+      "interval_intertitial"            : 1,
 
       "status_app": "0",
       "link_redirect": "https://"
