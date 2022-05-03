@@ -8,6 +8,8 @@
       "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
       "main_ads_native"           : "YOUR_PLACEMENT_ID",
 
+      "open_ads"                  : "YOUR_PLACEMENT_ID",
+
       "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
       "backup_ads_native"         : "YOUR_PLACEMENT_ID",
       
