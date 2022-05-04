@@ -19,7 +19,7 @@
       "interval_native_ads"       : 3,
       "start_position_native_ads" : 2,
       "native_ads_color"          : "#05eccc68",
-      "stroke_line_native_ads"    : "1",
+      "stroke_line_native_ads"    : "0",
       "size_native"               : "2",
 
       "high_paying_keyword_1": "life insurance",
