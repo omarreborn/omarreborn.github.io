@@ -5,9 +5,9 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "ADMOB",
 
-      "main_ads_banner"           : "ca-app-pub-2214374349425406/9006213128",
-      "main_ads_intertitial"      : "ca-app-pub-2214374349425406/6896244470",
-      "main_ads_native"           : "ca-app-pub-2214374349425406/5583162808",
+      "main_ads_banner"           : "ca-app-pub-2214374349425406/9006213128x",
+      "main_ads_intertitial"      : "ca-app-pub-2214374349425406/6896244470x",
+      "main_ads_native"           : "ca-app-pub-2214374349425406/5583162808x",
 
       "open_ads"                  : "ca-app-pub-2214374349425406/7822313338",
 
